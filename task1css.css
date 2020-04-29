@@ -1,0 +1,97 @@
+div.img1
+{
+    width: auto;
+    height: auto;
+    float: left;
+}
+div.hb
+{
+    padding-top: 12px;
+    padding-left: 1250px;
+}
+div.arr
+{
+    margin-top: auto;
+    padding-top: 160px;
+    padding-left: 525px;
+}
+div.fb
+{
+    padding-left: 1100px;
+    padding-top: 20px;
+}
+div.text
+{
+    font-family: sans-serif;
+    font-size: 69;
+    font-style: bold;
+    color: rgb(39, 189, 139);
+    padding-top: 25px;
+    padding-left: 125px;
+}
+
+div.subpart1
+{
+    font-family: sans-serif;
+    font-size: 30;
+    font-style: bold;
+    color: rgb(39, 189, 139);
+    padding-top: 150px;
+    padding-left: 125px;
+}
+div.subpart2
+{
+    font-family: sans-serif;
+    font-size: 30;
+    font-style: bold;
+    color: rgb(39, 189, 139);
+    padding-left:650px; 
+    padding-top: 140px;
+}
+div.subpart3
+{
+    font-family: sans-serif;
+    font-size: 30;
+    font-style: bold;
+    color: rgb(39, 189, 139);
+    padding-left:125px; 
+    padding-top: 130px;
+}
+div.p1
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20;
+    font-style: bold;
+    color: white;
+    padding-top: 12px;
+    padding-left: 125px;
+    width: 500px;
+    height: 50px;
+}
+div.p2
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20;
+    font-style: bold;
+    color: white;
+    padding-left: 650px;
+    padding-top: 12px;
+    width: 500px;
+    height: 50px;
+}
+div.p3
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20;
+    font-style: bold;
+    color: white;
+    padding-top: 12px;
+    padding-left: 0px;
+    max-width: 500px;
+    max-height: 50px;
+}
+body
+{
+    background-image: url("background.png");
+    background-size: 100%;
+}
